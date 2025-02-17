@@ -1,9 +1,8 @@
 ---
-layout: slide
-title: "Welcome to our slide deck!"
+"Welcome Cinthya´s slide deck!"
 ---
 
-Caption here
+Here you can see all the details you want 💡
 
 ![steroidtocat](https://octodex.github.com/images/steroidtocat.png)
 {: .center}
