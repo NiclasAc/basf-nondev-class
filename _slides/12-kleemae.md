@@ -1,6 +1,6 @@
-# Eric Kleemann
+# Eric
 
-Hello! My name is **Eric Kleemann**. I am based in Ludwigshafen am Rhein, Rheinland-Pfalz. 
+Hello! My name is **Eric**. I am based in Ludwigshafen am Rhein, Rheinland-Pfalz. 
 
 Feel free to reach out to me for any collaboration or inquiries!
 ```
